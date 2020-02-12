@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /single-cell-immunology/
+permalink: /ScRNAseq/
 title: "scRNAseq Posts by Tags"
 author_profile: true
 header:
