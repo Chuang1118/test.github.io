@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chuang DONG"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/chuang.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My **TEST** website."
   location         : "Marseille, FRANCE"
   email            :

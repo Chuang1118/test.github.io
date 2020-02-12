@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "About"
-    url: /single-cell-immunology/
+  - title: "ScRNAseq"
+    url: /scRNAseq/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
