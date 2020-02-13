@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  #- title: "ScRNAseq"
-  #  url: /scrnaseq/
+  - title: "ScRNAseq"
+    url: /scrnaseq/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
