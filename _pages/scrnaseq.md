@@ -4,7 +4,7 @@ permalink: /scrna-seq/
 title: "scRNAseq Posts by Tags"
 author_profile: true
 header:
-  image: "/images/calanque2.jpg"
+  image: "/images/ciml.jpg"
 ---
 
 {% include base_path %}
