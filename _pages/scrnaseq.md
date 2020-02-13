@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /scrna-seq/
+permalink: /scrnaseq/
 title: "scRNAseq Posts by Tags"
 author_profile: true
 header:
