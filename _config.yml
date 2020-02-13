@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuang DONG"
+title                    : "Chuang DONG 1"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chuang DONG"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chuang DONG"
-  avatar           : "/images/chuang.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/chuang.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My **TEST** website."
   location         : "Marseille, FRANCE"
   email            :
@@ -293,6 +293,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
   #_pages
   - scope:
       path: ""
