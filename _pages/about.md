@@ -2,9 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/calanque2.jpg"
+  image: "/images/zakim.jpg"
 ---
 
-I'm a junior bioinformatics who excels at Single cell analysis.
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
 
-etc. etc. etc.
+Etc, etc, etc
