@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "test.github.io"
+      url: "https://github.com/Chuang1118"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -294,9 +294,9 @@ defaults:
       share: true
       related: true
 
-  #_pages
+  # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
