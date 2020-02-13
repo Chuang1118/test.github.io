@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "ScRNAseq"
-    url: /ScRNA-seq/
+    url: /scrna-seq/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
